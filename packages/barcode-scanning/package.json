@@ -1,6 +1,6 @@
 {
   "name": "@givenergy/barcode-scanning",
-  "version": "6.1.1",
+  "version": "6.1.2",
   "description": "Capacitor plugin for ML Kit Barcode Scanning.",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
